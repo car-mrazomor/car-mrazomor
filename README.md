@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+IvekIvek is not my name as you assumed 
 
 - 🔭 I’m currently working on - Automation bot.
 - 🌱 I’m currently learning - Russian language.
