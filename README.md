@@ -7,4 +7,3 @@ IvekIvek is not my name as you assumed
 - 💬 Ask me about anything you wanna know.
 - 📫 How to reach me: @IvekIvek (Telegram)
 - ⚡ Fun fact: sometimes waking in 5am just to read books.
-- 🌐 [DoggyBot.LOL](https://doggybot.lol)
