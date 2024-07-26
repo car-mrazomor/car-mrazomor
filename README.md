@@ -7,4 +7,4 @@ IvekIvek is not my name as you assumed
 - 💬 Ask me about anything you wanna know.
 - 📫 How to reach me: @davvvvvy (Telegram)
 - ⚡ Fun fact: sometimes waking in 5am just to read books.
-- 📧 Free E-mail hosting: (Doggy)[https://doggy.li]
+- 📧 Free E-mail hosting: [Doggy](https://doggy.li)
