@@ -7,4 +7,4 @@ Davvy is not my real name, real name you find would never be.
 - 💬 Ask me about anything you wanna know.
 - 📫 How to reach me: [@car_mrazomor](https://t.me/car_mrazomor) (Telegram)
 - ⚡ Fun fact: sometimes waking in 5am just to read books.
-- 📧 High—performance and privacy VPS servers: [OvO Hosting](https://ovo.hr)
+- 📧 High—performance and privacy VPS servers: [OvO Hosting](https://ovobox.org)
