@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Davvy is not my real name, real name you find would never be.
+no-name is not my real name, real name you find will never.
 
 - 🔭 I’m currently working on — Automation bot.
 - 🌱 I’m currently learning — Russian language.
