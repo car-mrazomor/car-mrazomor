@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Davvy is not my real name. Davvy stands for "Developer of Automation tools & VPS Vendor for You".
+Firstly, Davvy is not my real name. Davvy stands for "Developer of Automation tools & VPS Vendor for You".
 
 - 🔭 I’m currently working on — Automation bot.
 - 🌱 I’m currently learning — Russian language.
