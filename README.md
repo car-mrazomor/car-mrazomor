@@ -3,4 +3,4 @@
 - 💬 Ask me about anything you wanna know.
 - 📫 How to reach me: [@car_mrazomor](https://t.me/car_mrazomor) (Telegram)
 - ⚡ Fun fact: sometimes waking in 5am just to read books.
-- 📧 High—performance and privacy VPS servers: [OvO Hosting](https://ovobox.org)
+- 📧 High—performance and privacy VPS servers: [OvO Hosting](https://ovobox.org) & [Vonobox](https://vonobox.com)
